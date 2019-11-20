@@ -47,7 +47,7 @@ public class SignUpAcitivty extends BaseActivity implements View.OnClickListener
             case R.id.text_signin_text:
                 StartActivity(new SignInActivity());
                 break;
-            case R.id.btn_sign_in:
+            case R.id.btn_sign_up:
                 validation();
                 break;
         }
@@ -70,7 +70,7 @@ public class SignUpAcitivty extends BaseActivity implements View.OnClickListener
             mPassword.setHintTextColor(getResources().getColor(R.color.colorRed));
             mPassword.startAnimation(shake);
         }else{
-            ShowNotification(getString(R.string.msg_login_success));
+            ShowNotification(getString(R.string.msg_register_success));
         }
     }
 }
