@@ -1,4 +1,5 @@
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 Assalamu'alaikum Warohmatullahi Wabarokaatuh
 
 LOGIN & REGISTER SCREEN MINIMALIST WITH VALIDATION FUNCTION
