@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_title_size">24sp</dimen>
+    <dimen name="text_subtitle_size">12sp</dimen>
+    <dimen name="corner_field">24dp</dimen>
+    <dimen name="stroke_width_default">1dp</dimen>
+    <dimen name="margin_auth">24dp</dimen>
+    <dimen name="margin_auth_title">80dp</dimen>
+    <dimen name="padding_field">16dp</dimen>
+    <dimen name="text_body_size">14sp</dimen>
+    <dimen name="margin_auth_email_field">32dp</dimen>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="text_btn_size">14sp</dimen>
+    <dimen name="corner_btn">24dp</dimen>
+    <dimen name="padding_default">8dp</dimen>
+    <dimen name="margin_privacy_policy">40dp</dimen>
+</resources>
